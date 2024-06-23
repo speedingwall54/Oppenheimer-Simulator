@@ -14,7 +14,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/oppenheimer-game-simulator.git
+git clone https://github.com/speedingwall54/oppenheimer-game-simulator.git
 Navigate to the project directory:
 
 sh
